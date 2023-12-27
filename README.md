@@ -11,7 +11,7 @@ kegbi@github
 OS:         Manjaro Linux x86_64
 Shell:      zsh 5.8
 Nickname:   Kegbi
-Languages:  JavaScript, TypeScript,
+Languages:  JavaScript, TypeScript, Python,
             HTML, CSS
 Email:      kegbi.networking@gmail.com
 ```
